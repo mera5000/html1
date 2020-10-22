@@ -1,0 +1,18 @@
+#miTitulo {
+	color: blue;
+	 font-size: 26px;
+
+}
+#seccion1 {
+	border: green 5px dotted; 
+}
+
+
+
+p {
+	border: red 3px dashed;
+}
+
+.colorLetra{
+	color: red;
+}
